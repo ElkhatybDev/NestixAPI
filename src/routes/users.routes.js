@@ -9,12 +9,12 @@ const {
     updateUser,
     deleteUser,
     getUserPosts,
-    getUserBookings
+    
 } = require("../controllers/users.controller");
 
 //relation 
 router.get("/:id/posts", getUserPosts);
-router.get("/:id/bookings", getUserBookings);
+
 
 
 // route et param (CRUD)

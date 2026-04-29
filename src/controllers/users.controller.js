@@ -2,7 +2,7 @@ const users = require("../data/users.json");
 const paginate = require("../utils/paginate");
 //import relation
 const posts = require("../data/posts.json");
-//const bookings = require("../data/bookings.json");
+
 
 
 //
@@ -143,35 +143,8 @@ const getUserPosts = (req, res) => {
     });
 };
 
-// 
-
-const getUserBookings = (req, res) => {
-    const userId = parseInt(req.params.id);
-
-    const user = users.find(u => u.id === userId);
-    if (!user) {
-    return res.status(404).json({
-        message: "User not found"
-    });
-    }
-
-    const userBookings = bookings.filter(
-    booking => booking.userId === userId
-    );
-
-    res.status(200).json({
-    message: "User bookings fetched successfully",
-    total: userBookings.length,
-    data: userBookings
-    });
-};
-
-
-
-
 module.exports = {
     getAllUsers,getUserById,
     addUser,updateUser,
     deleteUser,getUserPosts,
-    getUserBookings 
 };
