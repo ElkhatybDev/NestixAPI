@@ -36,7 +36,7 @@ const generateUser = (id) => {
     };
 };
 
-// generate users
+
 const generateUsers = (count) => {
     const users = [];
 
@@ -47,10 +47,10 @@ const generateUsers = (count) => {
     return users;
 };
 
-// bghyt 100 user
+
 const users = generateUsers(100);
 
-//had data li te3tini dir liha save f had file.
+
 fs.writeFileSync(
     "./src/data/users.json",
     JSON.stringify(users, null, 2)
