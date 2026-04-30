@@ -38,4 +38,4 @@ fs.writeFileSync(
     JSON.stringify(comments, null, 2)
 );
 
-console.log("Comments generated successfully ✅");
+console.log("Comments generated successfully ");
