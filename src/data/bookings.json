@@ -1,0 +1,2002 @@
+[
+  {
+    "id": 1,
+    "userId": 69,
+    "tripId": 61,
+    "travelers": 2,
+    "totalPrice": 7474,
+    "status": "confirmed",
+    "bookingDate": "2026-03-03T07:19:36.891Z",
+    "createdAt": "2026-01-20T02:24:21.431Z"
+  },
+  {
+    "id": 2,
+    "userId": 3,
+    "tripId": 15,
+    "travelers": 3,
+    "totalPrice": 13932,
+    "status": "pending",
+    "bookingDate": "2026-04-14T14:48:50.062Z",
+    "createdAt": "2025-05-31T00:11:02.835Z"
+  },
+  {
+    "id": 3,
+    "userId": 27,
+    "tripId": 97,
+    "travelers": 3,
+    "totalPrice": 12732,
+    "status": "pending",
+    "bookingDate": "2026-03-05T00:17:46.129Z",
+    "createdAt": "2026-01-11T04:35:05.965Z"
+  },
+  {
+    "id": 4,
+    "userId": 1,
+    "tripId": 19,
+    "travelers": 5,
+    "totalPrice": 2540,
+    "status": "pending",
+    "bookingDate": "2026-01-12T03:52:47.704Z",
+    "createdAt": "2025-08-15T18:30:25.382Z"
+  },
+  {
+    "id": 5,
+    "userId": 24,
+    "tripId": 84,
+    "travelers": 3,
+    "totalPrice": 9324,
+    "status": "cancelled",
+    "bookingDate": "2025-11-28T20:35:17.905Z",
+    "createdAt": "2025-05-20T01:49:46.407Z"
+  },
+  {
+    "id": 6,
+    "userId": 86,
+    "tripId": 8,
+    "travelers": 4,
+    "totalPrice": 3668,
+    "status": "pending",
+    "bookingDate": "2025-09-04T10:40:06.226Z",
+    "createdAt": "2025-06-07T01:25:17.967Z"
+  },
+  {
+    "id": 7,
+    "userId": 33,
+    "tripId": 35,
+    "travelers": 4,
+    "totalPrice": 19236,
+    "status": "pending",
+    "bookingDate": "2025-07-22T09:40:02.623Z",
+    "createdAt": "2025-06-03T22:35:18.766Z"
+  },
+  {
+    "id": 8,
+    "userId": 53,
+    "tripId": 131,
+    "travelers": 2,
+    "totalPrice": 6344,
+    "status": "pending",
+    "bookingDate": "2026-03-09T09:34:47.098Z",
+    "createdAt": "2025-06-12T05:49:14.161Z"
+  },
+  {
+    "id": 9,
+    "userId": 22,
+    "tripId": 16,
+    "travelers": 1,
+    "totalPrice": 1943,
+    "status": "confirmed",
+    "bookingDate": "2026-01-24T00:28:34.797Z",
+    "createdAt": "2026-01-26T22:45:45.912Z"
+  },
+  {
+    "id": 10,
+    "userId": 93,
+    "tripId": 15,
+    "travelers": 1,
+    "totalPrice": 3336,
+    "status": "confirmed",
+    "bookingDate": "2025-07-14T05:22:25.716Z",
+    "createdAt": "2026-02-12T16:13:18.139Z"
+  },
+  {
+    "id": 11,
+    "userId": 8,
+    "tripId": 115,
+    "travelers": 4,
+    "totalPrice": 14260,
+    "status": "confirmed",
+    "bookingDate": "2025-08-24T03:12:39.660Z",
+    "createdAt": "2025-06-08T08:06:26.800Z"
+  },
+  {
+    "id": 12,
+    "userId": 35,
+    "tripId": 94,
+    "travelers": 3,
+    "totalPrice": 14622,
+    "status": "confirmed",
+    "bookingDate": "2025-07-29T04:45:56.971Z",
+    "createdAt": "2026-02-09T23:20:25.621Z"
+  },
+  {
+    "id": 13,
+    "userId": 28,
+    "tripId": 38,
+    "travelers": 2,
+    "totalPrice": 2430,
+    "status": "cancelled",
+    "bookingDate": "2025-12-28T18:08:02.303Z",
+    "createdAt": "2025-11-04T22:11:27.688Z"
+  },
+  {
+    "id": 14,
+    "userId": 30,
+    "tripId": 84,
+    "travelers": 4,
+    "totalPrice": 7972,
+    "status": "pending",
+    "bookingDate": "2025-11-03T05:44:10.843Z",
+    "createdAt": "2025-12-23T12:28:26.181Z"
+  },
+  {
+    "id": 15,
+    "userId": 93,
+    "tripId": 50,
+    "travelers": 3,
+    "totalPrice": 6627,
+    "status": "confirmed",
+    "bookingDate": "2026-02-22T02:15:57.999Z",
+    "createdAt": "2025-07-11T12:18:34.565Z"
+  },
+  {
+    "id": 16,
+    "userId": 94,
+    "tripId": 41,
+    "travelers": 2,
+    "totalPrice": 7288,
+    "status": "cancelled",
+    "bookingDate": "2026-02-17T08:54:01.859Z",
+    "createdAt": "2026-04-11T20:50:07.955Z"
+  },
+  {
+    "id": 17,
+    "userId": 35,
+    "tripId": 29,
+    "travelers": 2,
+    "totalPrice": 2812,
+    "status": "pending",
+    "bookingDate": "2025-10-10T11:41:30.641Z",
+    "createdAt": "2025-07-18T05:02:36.358Z"
+  },
+  {
+    "id": 18,
+    "userId": 74,
+    "tripId": 58,
+    "travelers": 5,
+    "totalPrice": 12270,
+    "status": "pending",
+    "bookingDate": "2026-04-14T07:11:46.136Z",
+    "createdAt": "2025-05-07T07:54:46.215Z"
+  },
+  {
+    "id": 19,
+    "userId": 94,
+    "tripId": 84,
+    "travelers": 4,
+    "totalPrice": 14180,
+    "status": "cancelled",
+    "bookingDate": "2025-06-18T14:16:49.453Z",
+    "createdAt": "2025-11-15T09:24:29.697Z"
+  },
+  {
+    "id": 20,
+    "userId": 73,
+    "tripId": 22,
+    "travelers": 1,
+    "totalPrice": 874,
+    "status": "cancelled",
+    "bookingDate": "2025-05-17T15:48:17.391Z",
+    "createdAt": "2025-09-20T04:12:37.672Z"
+  },
+  {
+    "id": 21,
+    "userId": 39,
+    "tripId": 138,
+    "travelers": 5,
+    "totalPrice": 8640,
+    "status": "pending",
+    "bookingDate": "2026-04-19T04:18:51.850Z",
+    "createdAt": "2025-05-27T21:16:07.855Z"
+  },
+  {
+    "id": 22,
+    "userId": 84,
+    "tripId": 34,
+    "travelers": 5,
+    "totalPrice": 12475,
+    "status": "confirmed",
+    "bookingDate": "2025-09-23T03:56:33.050Z",
+    "createdAt": "2025-10-29T05:25:28.626Z"
+  },
+  {
+    "id": 23,
+    "userId": 81,
+    "tripId": 93,
+    "travelers": 5,
+    "totalPrice": 16265,
+    "status": "confirmed",
+    "bookingDate": "2025-12-10T07:13:16.800Z",
+    "createdAt": "2026-04-22T10:06:49.509Z"
+  },
+  {
+    "id": 24,
+    "userId": 96,
+    "tripId": 68,
+    "travelers": 5,
+    "totalPrice": 6475,
+    "status": "cancelled",
+    "bookingDate": "2025-06-04T13:50:34.439Z",
+    "createdAt": "2025-06-29T04:39:11.216Z"
+  },
+  {
+    "id": 25,
+    "userId": 17,
+    "tripId": 9,
+    "travelers": 5,
+    "totalPrice": 9300,
+    "status": "confirmed",
+    "bookingDate": "2025-07-04T12:13:49.298Z",
+    "createdAt": "2026-03-12T00:45:43.918Z"
+  },
+  {
+    "id": 26,
+    "userId": 15,
+    "tripId": 38,
+    "travelers": 4,
+    "totalPrice": 17740,
+    "status": "cancelled",
+    "bookingDate": "2025-12-05T06:47:52.855Z",
+    "createdAt": "2025-10-01T21:47:29.461Z"
+  },
+  {
+    "id": 27,
+    "userId": 48,
+    "tripId": 40,
+    "travelers": 3,
+    "totalPrice": 9684,
+    "status": "pending",
+    "bookingDate": "2025-05-07T06:39:16.338Z",
+    "createdAt": "2025-08-16T06:44:45.144Z"
+  },
+  {
+    "id": 28,
+    "userId": 99,
+    "tripId": 72,
+    "travelers": 5,
+    "totalPrice": 24825,
+    "status": "pending",
+    "bookingDate": "2026-02-06T19:52:12.760Z",
+    "createdAt": "2025-09-08T14:51:49.274Z"
+  },
+  {
+    "id": 29,
+    "userId": 21,
+    "tripId": 21,
+    "travelers": 4,
+    "totalPrice": 13984,
+    "status": "cancelled",
+    "bookingDate": "2025-05-13T15:00:53.035Z",
+    "createdAt": "2025-08-15T13:25:06.995Z"
+  },
+  {
+    "id": 30,
+    "userId": 1,
+    "tripId": 66,
+    "travelers": 4,
+    "totalPrice": 19388,
+    "status": "cancelled",
+    "bookingDate": "2026-01-27T23:09:58.139Z",
+    "createdAt": "2025-12-24T17:45:17.725Z"
+  },
+  {
+    "id": 31,
+    "userId": 34,
+    "tripId": 76,
+    "travelers": 5,
+    "totalPrice": 22085,
+    "status": "cancelled",
+    "bookingDate": "2025-11-22T01:48:39.262Z",
+    "createdAt": "2026-03-27T15:14:15.966Z"
+  },
+  {
+    "id": 32,
+    "userId": 83,
+    "tripId": 102,
+    "travelers": 2,
+    "totalPrice": 1414,
+    "status": "pending",
+    "bookingDate": "2025-08-09T10:12:40.991Z",
+    "createdAt": "2026-02-26T01:24:31.113Z"
+  },
+  {
+    "id": 33,
+    "userId": 10,
+    "tripId": 136,
+    "travelers": 3,
+    "totalPrice": 13464,
+    "status": "confirmed",
+    "bookingDate": "2025-05-06T11:48:04.917Z",
+    "createdAt": "2026-04-11T01:37:59.168Z"
+  },
+  {
+    "id": 34,
+    "userId": 32,
+    "tripId": 125,
+    "travelers": 4,
+    "totalPrice": 8808,
+    "status": "pending",
+    "bookingDate": "2025-12-03T04:15:15.869Z",
+    "createdAt": "2025-12-15T18:45:39.206Z"
+  },
+  {
+    "id": 35,
+    "userId": 80,
+    "tripId": 104,
+    "travelers": 2,
+    "totalPrice": 3958,
+    "status": "confirmed",
+    "bookingDate": "2025-12-12T02:46:46.524Z",
+    "createdAt": "2025-12-21T17:20:28.556Z"
+  },
+  {
+    "id": 36,
+    "userId": 89,
+    "tripId": 77,
+    "travelers": 2,
+    "totalPrice": 7034,
+    "status": "pending",
+    "bookingDate": "2026-04-28T15:56:22.422Z",
+    "createdAt": "2026-01-03T20:55:47.684Z"
+  },
+  {
+    "id": 37,
+    "userId": 74,
+    "tripId": 3,
+    "travelers": 3,
+    "totalPrice": 7494,
+    "status": "pending",
+    "bookingDate": "2026-01-29T12:44:21.351Z",
+    "createdAt": "2026-04-30T00:57:23.528Z"
+  },
+  {
+    "id": 38,
+    "userId": 49,
+    "tripId": 8,
+    "travelers": 5,
+    "totalPrice": 24575,
+    "status": "pending",
+    "bookingDate": "2025-06-14T12:04:00.325Z",
+    "createdAt": "2025-12-24T15:41:37.861Z"
+  },
+  {
+    "id": 39,
+    "userId": 89,
+    "tripId": 128,
+    "travelers": 4,
+    "totalPrice": 3368,
+    "status": "cancelled",
+    "bookingDate": "2025-06-12T18:35:25.013Z",
+    "createdAt": "2026-02-26T07:31:53.842Z"
+  },
+  {
+    "id": 40,
+    "userId": 95,
+    "tripId": 76,
+    "travelers": 2,
+    "totalPrice": 4754,
+    "status": "confirmed",
+    "bookingDate": "2026-03-26T04:19:40.287Z",
+    "createdAt": "2025-09-20T05:34:37.337Z"
+  },
+  {
+    "id": 41,
+    "userId": 11,
+    "tripId": 51,
+    "travelers": 3,
+    "totalPrice": 3327,
+    "status": "confirmed",
+    "bookingDate": "2026-03-11T08:21:14.236Z",
+    "createdAt": "2026-04-02T19:18:34.257Z"
+  },
+  {
+    "id": 42,
+    "userId": 86,
+    "tripId": 140,
+    "travelers": 2,
+    "totalPrice": 1404,
+    "status": "pending",
+    "bookingDate": "2026-02-09T09:25:38.685Z",
+    "createdAt": "2026-02-15T05:23:07.498Z"
+  },
+  {
+    "id": 43,
+    "userId": 71,
+    "tripId": 77,
+    "travelers": 2,
+    "totalPrice": 9682,
+    "status": "pending",
+    "bookingDate": "2025-08-25T06:23:14.894Z",
+    "createdAt": "2026-04-25T21:38:33.439Z"
+  },
+  {
+    "id": 44,
+    "userId": 43,
+    "tripId": 80,
+    "travelers": 3,
+    "totalPrice": 10539,
+    "status": "confirmed",
+    "bookingDate": "2025-06-10T03:53:56.137Z",
+    "createdAt": "2025-08-25T20:07:03.072Z"
+  },
+  {
+    "id": 45,
+    "userId": 79,
+    "tripId": 51,
+    "travelers": 4,
+    "totalPrice": 7488,
+    "status": "cancelled",
+    "bookingDate": "2026-04-04T09:40:54.193Z",
+    "createdAt": "2025-11-07T03:49:18.327Z"
+  },
+  {
+    "id": 46,
+    "userId": 98,
+    "tripId": 143,
+    "travelers": 4,
+    "totalPrice": 11668,
+    "status": "cancelled",
+    "bookingDate": "2025-06-28T03:41:12.585Z",
+    "createdAt": "2025-05-10T20:49:55.291Z"
+  },
+  {
+    "id": 47,
+    "userId": 17,
+    "tripId": 22,
+    "travelers": 2,
+    "totalPrice": 5330,
+    "status": "confirmed",
+    "bookingDate": "2025-09-28T01:01:52.036Z",
+    "createdAt": "2025-06-27T12:03:33.333Z"
+  },
+  {
+    "id": 48,
+    "userId": 70,
+    "tripId": 72,
+    "travelers": 1,
+    "totalPrice": 1402,
+    "status": "cancelled",
+    "bookingDate": "2026-04-06T01:08:11.592Z",
+    "createdAt": "2025-11-23T13:33:25.300Z"
+  },
+  {
+    "id": 49,
+    "userId": 48,
+    "tripId": 51,
+    "travelers": 2,
+    "totalPrice": 9962,
+    "status": "pending",
+    "bookingDate": "2025-09-23T12:39:29.015Z",
+    "createdAt": "2026-04-03T01:09:35.749Z"
+  },
+  {
+    "id": 50,
+    "userId": 22,
+    "tripId": 150,
+    "travelers": 3,
+    "totalPrice": 9633,
+    "status": "pending",
+    "bookingDate": "2025-06-09T20:20:23.122Z",
+    "createdAt": "2026-02-26T11:36:27.191Z"
+  },
+  {
+    "id": 51,
+    "userId": 39,
+    "tripId": 77,
+    "travelers": 5,
+    "totalPrice": 8560,
+    "status": "pending",
+    "bookingDate": "2025-05-27T09:02:24.643Z",
+    "createdAt": "2025-10-23T21:03:14.660Z"
+  },
+  {
+    "id": 52,
+    "userId": 49,
+    "tripId": 125,
+    "travelers": 4,
+    "totalPrice": 7720,
+    "status": "pending",
+    "bookingDate": "2026-04-03T01:54:37.027Z",
+    "createdAt": "2025-07-01T23:54:20.603Z"
+  },
+  {
+    "id": 53,
+    "userId": 78,
+    "tripId": 138,
+    "travelers": 2,
+    "totalPrice": 5044,
+    "status": "pending",
+    "bookingDate": "2025-07-17T02:09:05.784Z",
+    "createdAt": "2025-10-21T17:30:43.476Z"
+  },
+  {
+    "id": 54,
+    "userId": 11,
+    "tripId": 121,
+    "travelers": 2,
+    "totalPrice": 2830,
+    "status": "confirmed",
+    "bookingDate": "2025-11-24T00:38:04.653Z",
+    "createdAt": "2025-07-29T16:57:43.732Z"
+  },
+  {
+    "id": 55,
+    "userId": 26,
+    "tripId": 104,
+    "travelers": 5,
+    "totalPrice": 3880,
+    "status": "confirmed",
+    "bookingDate": "2026-02-06T20:37:09.080Z",
+    "createdAt": "2026-02-22T17:32:41.789Z"
+  },
+  {
+    "id": 56,
+    "userId": 87,
+    "tripId": 59,
+    "travelers": 5,
+    "totalPrice": 12580,
+    "status": "pending",
+    "bookingDate": "2026-01-13T21:14:09.668Z",
+    "createdAt": "2025-07-02T15:08:49.634Z"
+  },
+  {
+    "id": 57,
+    "userId": 65,
+    "tripId": 128,
+    "travelers": 3,
+    "totalPrice": 11934,
+    "status": "pending",
+    "bookingDate": "2025-09-14T05:20:45.008Z",
+    "createdAt": "2026-01-30T00:01:31.596Z"
+  },
+  {
+    "id": 58,
+    "userId": 68,
+    "tripId": 73,
+    "travelers": 3,
+    "totalPrice": 2493,
+    "status": "pending",
+    "bookingDate": "2025-08-16T03:37:03.436Z",
+    "createdAt": "2025-12-08T07:55:29.589Z"
+  },
+  {
+    "id": 59,
+    "userId": 54,
+    "tripId": 121,
+    "travelers": 5,
+    "totalPrice": 21495,
+    "status": "pending",
+    "bookingDate": "2025-09-23T19:20:03.909Z",
+    "createdAt": "2025-12-26T00:05:00.092Z"
+  },
+  {
+    "id": 60,
+    "userId": 71,
+    "tripId": 36,
+    "travelers": 2,
+    "totalPrice": 6622,
+    "status": "confirmed",
+    "bookingDate": "2025-11-30T16:34:33.621Z",
+    "createdAt": "2025-09-08T09:40:37.120Z"
+  },
+  {
+    "id": 61,
+    "userId": 2,
+    "tripId": 83,
+    "travelers": 3,
+    "totalPrice": 8244,
+    "status": "confirmed",
+    "bookingDate": "2025-11-15T12:09:58.318Z",
+    "createdAt": "2025-08-16T16:41:19.499Z"
+  },
+  {
+    "id": 62,
+    "userId": 59,
+    "tripId": 17,
+    "travelers": 1,
+    "totalPrice": 1979,
+    "status": "cancelled",
+    "bookingDate": "2025-05-08T04:17:12.229Z",
+    "createdAt": "2025-08-13T19:10:09.932Z"
+  },
+  {
+    "id": 63,
+    "userId": 48,
+    "tripId": 110,
+    "travelers": 4,
+    "totalPrice": 9128,
+    "status": "pending",
+    "bookingDate": "2026-04-09T03:46:59.640Z",
+    "createdAt": "2025-08-28T09:11:56.205Z"
+  },
+  {
+    "id": 64,
+    "userId": 10,
+    "tripId": 46,
+    "travelers": 4,
+    "totalPrice": 14808,
+    "status": "cancelled",
+    "bookingDate": "2025-07-01T09:09:26.402Z",
+    "createdAt": "2025-07-28T09:59:43.966Z"
+  },
+  {
+    "id": 65,
+    "userId": 75,
+    "tripId": 11,
+    "travelers": 4,
+    "totalPrice": 18136,
+    "status": "confirmed",
+    "bookingDate": "2026-04-03T19:19:44.167Z",
+    "createdAt": "2026-03-12T08:55:25.595Z"
+  },
+  {
+    "id": 66,
+    "userId": 51,
+    "tripId": 98,
+    "travelers": 1,
+    "totalPrice": 3392,
+    "status": "cancelled",
+    "bookingDate": "2025-09-13T12:23:45.796Z",
+    "createdAt": "2025-10-19T19:00:41.453Z"
+  },
+  {
+    "id": 67,
+    "userId": 32,
+    "tripId": 63,
+    "travelers": 4,
+    "totalPrice": 7976,
+    "status": "confirmed",
+    "bookingDate": "2025-12-20T11:58:58.082Z",
+    "createdAt": "2026-02-14T04:44:24.679Z"
+  },
+  {
+    "id": 68,
+    "userId": 96,
+    "tripId": 137,
+    "travelers": 2,
+    "totalPrice": 7522,
+    "status": "cancelled",
+    "bookingDate": "2026-04-06T09:08:07.210Z",
+    "createdAt": "2026-03-24T23:07:04.263Z"
+  },
+  {
+    "id": 69,
+    "userId": 97,
+    "tripId": 98,
+    "travelers": 2,
+    "totalPrice": 9940,
+    "status": "confirmed",
+    "bookingDate": "2025-06-22T10:26:24.398Z",
+    "createdAt": "2025-10-17T09:31:51.609Z"
+  },
+  {
+    "id": 70,
+    "userId": 62,
+    "tripId": 65,
+    "travelers": 2,
+    "totalPrice": 5552,
+    "status": "cancelled",
+    "bookingDate": "2025-12-18T15:39:24.890Z",
+    "createdAt": "2025-10-20T20:58:52.119Z"
+  },
+  {
+    "id": 71,
+    "userId": 38,
+    "tripId": 28,
+    "travelers": 2,
+    "totalPrice": 5200,
+    "status": "pending",
+    "bookingDate": "2026-01-09T01:25:45.109Z",
+    "createdAt": "2026-03-02T15:54:08.384Z"
+  },
+  {
+    "id": 72,
+    "userId": 99,
+    "tripId": 43,
+    "travelers": 4,
+    "totalPrice": 4224,
+    "status": "pending",
+    "bookingDate": "2025-12-29T08:14:24.267Z",
+    "createdAt": "2025-08-16T12:15:49.275Z"
+  },
+  {
+    "id": 73,
+    "userId": 23,
+    "tripId": 146,
+    "travelers": 1,
+    "totalPrice": 950,
+    "status": "pending",
+    "bookingDate": "2026-04-30T01:32:28.628Z",
+    "createdAt": "2025-09-29T17:48:12.807Z"
+  },
+  {
+    "id": 74,
+    "userId": 68,
+    "tripId": 26,
+    "travelers": 5,
+    "totalPrice": 7660,
+    "status": "pending",
+    "bookingDate": "2025-05-23T16:06:23.582Z",
+    "createdAt": "2025-05-04T11:58:22.115Z"
+  },
+  {
+    "id": 75,
+    "userId": 54,
+    "tripId": 35,
+    "travelers": 1,
+    "totalPrice": 4446,
+    "status": "pending",
+    "bookingDate": "2025-07-15T18:00:17.206Z",
+    "createdAt": "2025-06-15T08:10:14.719Z"
+  },
+  {
+    "id": 76,
+    "userId": 29,
+    "tripId": 140,
+    "travelers": 1,
+    "totalPrice": 956,
+    "status": "cancelled",
+    "bookingDate": "2026-04-16T15:51:58.301Z",
+    "createdAt": "2026-04-21T10:46:18.016Z"
+  },
+  {
+    "id": 77,
+    "userId": 32,
+    "tripId": 25,
+    "travelers": 3,
+    "totalPrice": 12024,
+    "status": "confirmed",
+    "bookingDate": "2026-03-18T09:53:00.460Z",
+    "createdAt": "2025-09-26T16:39:02.962Z"
+  },
+  {
+    "id": 78,
+    "userId": 12,
+    "tripId": 133,
+    "travelers": 3,
+    "totalPrice": 11688,
+    "status": "confirmed",
+    "bookingDate": "2025-08-22T12:11:09.748Z",
+    "createdAt": "2025-12-25T21:13:58.108Z"
+  },
+  {
+    "id": 79,
+    "userId": 10,
+    "tripId": 122,
+    "travelers": 2,
+    "totalPrice": 5262,
+    "status": "pending",
+    "bookingDate": "2026-02-10T04:04:15.256Z",
+    "createdAt": "2025-10-30T23:58:12.962Z"
+  },
+  {
+    "id": 80,
+    "userId": 59,
+    "tripId": 81,
+    "travelers": 3,
+    "totalPrice": 7470,
+    "status": "confirmed",
+    "bookingDate": "2025-09-27T08:46:12.725Z",
+    "createdAt": "2025-10-09T02:53:57.447Z"
+  },
+  {
+    "id": 81,
+    "userId": 88,
+    "tripId": 13,
+    "travelers": 3,
+    "totalPrice": 5394,
+    "status": "pending",
+    "bookingDate": "2026-04-09T18:31:29.071Z",
+    "createdAt": "2026-01-04T03:54:45.203Z"
+  },
+  {
+    "id": 82,
+    "userId": 97,
+    "tripId": 109,
+    "travelers": 2,
+    "totalPrice": 6748,
+    "status": "cancelled",
+    "bookingDate": "2025-05-03T23:22:10.174Z",
+    "createdAt": "2025-10-06T20:04:07.274Z"
+  },
+  {
+    "id": 83,
+    "userId": 51,
+    "tripId": 135,
+    "travelers": 3,
+    "totalPrice": 12423,
+    "status": "confirmed",
+    "bookingDate": "2026-03-21T13:04:44.710Z",
+    "createdAt": "2026-02-26T02:10:04.101Z"
+  },
+  {
+    "id": 84,
+    "userId": 87,
+    "tripId": 96,
+    "travelers": 4,
+    "totalPrice": 16776,
+    "status": "pending",
+    "bookingDate": "2026-03-25T15:55:55.576Z",
+    "createdAt": "2026-04-07T13:19:58.515Z"
+  },
+  {
+    "id": 85,
+    "userId": 71,
+    "tripId": 76,
+    "travelers": 5,
+    "totalPrice": 8955,
+    "status": "confirmed",
+    "bookingDate": "2025-07-01T05:35:30.459Z",
+    "createdAt": "2025-12-24T06:36:00.279Z"
+  },
+  {
+    "id": 86,
+    "userId": 67,
+    "tripId": 113,
+    "travelers": 3,
+    "totalPrice": 10926,
+    "status": "pending",
+    "bookingDate": "2026-01-31T03:36:29.147Z",
+    "createdAt": "2025-09-17T16:51:37.662Z"
+  },
+  {
+    "id": 87,
+    "userId": 19,
+    "tripId": 81,
+    "travelers": 2,
+    "totalPrice": 3208,
+    "status": "confirmed",
+    "bookingDate": "2026-01-31T04:54:37.886Z",
+    "createdAt": "2025-08-12T13:57:41.019Z"
+  },
+  {
+    "id": 88,
+    "userId": 60,
+    "tripId": 75,
+    "travelers": 2,
+    "totalPrice": 6108,
+    "status": "pending",
+    "bookingDate": "2025-08-23T09:35:06.457Z",
+    "createdAt": "2025-08-14T00:10:18.966Z"
+  },
+  {
+    "id": 89,
+    "userId": 4,
+    "tripId": 140,
+    "travelers": 2,
+    "totalPrice": 5720,
+    "status": "cancelled",
+    "bookingDate": "2025-08-29T01:33:10.821Z",
+    "createdAt": "2025-06-06T21:06:02.950Z"
+  },
+  {
+    "id": 90,
+    "userId": 91,
+    "tripId": 18,
+    "travelers": 4,
+    "totalPrice": 16284,
+    "status": "confirmed",
+    "bookingDate": "2025-10-24T05:27:00.733Z",
+    "createdAt": "2025-12-10T18:58:55.566Z"
+  },
+  {
+    "id": 91,
+    "userId": 55,
+    "tripId": 71,
+    "travelers": 1,
+    "totalPrice": 2627,
+    "status": "cancelled",
+    "bookingDate": "2026-01-11T20:07:11.961Z",
+    "createdAt": "2026-02-28T12:50:51.115Z"
+  },
+  {
+    "id": 92,
+    "userId": 75,
+    "tripId": 84,
+    "travelers": 4,
+    "totalPrice": 11428,
+    "status": "pending",
+    "bookingDate": "2025-11-13T00:06:41.480Z",
+    "createdAt": "2025-08-06T20:13:34.137Z"
+  },
+  {
+    "id": 93,
+    "userId": 36,
+    "tripId": 16,
+    "travelers": 3,
+    "totalPrice": 7956,
+    "status": "pending",
+    "bookingDate": "2025-07-17T06:11:46.072Z",
+    "createdAt": "2025-05-19T08:14:35.268Z"
+  },
+  {
+    "id": 94,
+    "userId": 16,
+    "tripId": 60,
+    "travelers": 5,
+    "totalPrice": 7450,
+    "status": "confirmed",
+    "bookingDate": "2025-09-19T14:23:27.974Z",
+    "createdAt": "2025-05-26T04:05:35.575Z"
+  },
+  {
+    "id": 95,
+    "userId": 38,
+    "tripId": 3,
+    "travelers": 5,
+    "totalPrice": 18760,
+    "status": "cancelled",
+    "bookingDate": "2025-06-18T03:55:10.047Z",
+    "createdAt": "2025-08-30T09:30:15.728Z"
+  },
+  {
+    "id": 96,
+    "userId": 50,
+    "tripId": 77,
+    "travelers": 1,
+    "totalPrice": 2575,
+    "status": "confirmed",
+    "bookingDate": "2025-08-24T04:38:14.045Z",
+    "createdAt": "2025-08-13T13:45:09.318Z"
+  },
+  {
+    "id": 97,
+    "userId": 72,
+    "tripId": 93,
+    "travelers": 1,
+    "totalPrice": 3324,
+    "status": "confirmed",
+    "bookingDate": "2026-03-08T16:09:40.764Z",
+    "createdAt": "2026-03-29T03:30:35.907Z"
+  },
+  {
+    "id": 98,
+    "userId": 18,
+    "tripId": 121,
+    "travelers": 3,
+    "totalPrice": 11457,
+    "status": "pending",
+    "bookingDate": "2025-07-24T22:24:25.323Z",
+    "createdAt": "2025-05-13T17:18:05.953Z"
+  },
+  {
+    "id": 99,
+    "userId": 74,
+    "tripId": 32,
+    "travelers": 1,
+    "totalPrice": 545,
+    "status": "cancelled",
+    "bookingDate": "2026-04-17T08:50:39.555Z",
+    "createdAt": "2026-03-02T07:13:08.833Z"
+  },
+  {
+    "id": 100,
+    "userId": 5,
+    "tripId": 36,
+    "travelers": 5,
+    "totalPrice": 12290,
+    "status": "pending",
+    "bookingDate": "2025-06-11T05:33:58.176Z",
+    "createdAt": "2025-07-26T12:39:01.229Z"
+  },
+  {
+    "id": 101,
+    "userId": 98,
+    "tripId": 141,
+    "travelers": 1,
+    "totalPrice": 2566,
+    "status": "cancelled",
+    "bookingDate": "2025-12-17T11:26:09.407Z",
+    "createdAt": "2025-06-09T02:29:20.811Z"
+  },
+  {
+    "id": 102,
+    "userId": 24,
+    "tripId": 84,
+    "travelers": 4,
+    "totalPrice": 14208,
+    "status": "cancelled",
+    "bookingDate": "2026-04-24T06:32:24.063Z",
+    "createdAt": "2025-08-09T15:49:35.197Z"
+  },
+  {
+    "id": 103,
+    "userId": 92,
+    "tripId": 133,
+    "travelers": 2,
+    "totalPrice": 7728,
+    "status": "cancelled",
+    "bookingDate": "2025-12-25T13:29:46.103Z",
+    "createdAt": "2026-01-23T06:19:36.702Z"
+  },
+  {
+    "id": 104,
+    "userId": 55,
+    "tripId": 16,
+    "travelers": 5,
+    "totalPrice": 20030,
+    "status": "confirmed",
+    "bookingDate": "2026-02-12T08:57:48.719Z",
+    "createdAt": "2025-12-19T05:41:35.089Z"
+  },
+  {
+    "id": 105,
+    "userId": 91,
+    "tripId": 117,
+    "travelers": 1,
+    "totalPrice": 3458,
+    "status": "cancelled",
+    "bookingDate": "2025-12-08T17:55:43.779Z",
+    "createdAt": "2025-09-27T15:19:01.058Z"
+  },
+  {
+    "id": 106,
+    "userId": 51,
+    "tripId": 62,
+    "travelers": 3,
+    "totalPrice": 14799,
+    "status": "pending",
+    "bookingDate": "2025-12-03T06:15:44.035Z",
+    "createdAt": "2025-11-29T23:53:25.827Z"
+  },
+  {
+    "id": 107,
+    "userId": 38,
+    "tripId": 129,
+    "travelers": 2,
+    "totalPrice": 6062,
+    "status": "confirmed",
+    "bookingDate": "2025-11-12T22:55:18.501Z",
+    "createdAt": "2025-07-03T10:39:10.500Z"
+  },
+  {
+    "id": 108,
+    "userId": 36,
+    "tripId": 98,
+    "travelers": 5,
+    "totalPrice": 15320,
+    "status": "confirmed",
+    "bookingDate": "2025-09-16T22:25:56.986Z",
+    "createdAt": "2025-05-15T10:58:51.466Z"
+  },
+  {
+    "id": 109,
+    "userId": 3,
+    "tripId": 97,
+    "travelers": 3,
+    "totalPrice": 12501,
+    "status": "confirmed",
+    "bookingDate": "2025-10-04T21:54:57.540Z",
+    "createdAt": "2025-11-26T21:08:48.282Z"
+  },
+  {
+    "id": 110,
+    "userId": 43,
+    "tripId": 145,
+    "travelers": 5,
+    "totalPrice": 20335,
+    "status": "pending",
+    "bookingDate": "2025-09-17T05:05:21.061Z",
+    "createdAt": "2026-01-07T22:29:08.249Z"
+  },
+  {
+    "id": 111,
+    "userId": 22,
+    "tripId": 24,
+    "travelers": 3,
+    "totalPrice": 13686,
+    "status": "pending",
+    "bookingDate": "2026-04-03T06:09:56.582Z",
+    "createdAt": "2025-08-19T01:55:58.140Z"
+  },
+  {
+    "id": 112,
+    "userId": 25,
+    "tripId": 131,
+    "travelers": 2,
+    "totalPrice": 7748,
+    "status": "pending",
+    "bookingDate": "2025-08-19T06:51:41.110Z",
+    "createdAt": "2025-05-24T06:23:18.234Z"
+  },
+  {
+    "id": 113,
+    "userId": 58,
+    "tripId": 99,
+    "travelers": 4,
+    "totalPrice": 12692,
+    "status": "cancelled",
+    "bookingDate": "2025-11-26T07:50:42.597Z",
+    "createdAt": "2025-06-03T15:19:01.495Z"
+  },
+  {
+    "id": 114,
+    "userId": 67,
+    "tripId": 49,
+    "travelers": 3,
+    "totalPrice": 5937,
+    "status": "pending",
+    "bookingDate": "2025-06-25T14:08:02.318Z",
+    "createdAt": "2026-01-19T08:32:44.690Z"
+  },
+  {
+    "id": 115,
+    "userId": 45,
+    "tripId": 11,
+    "travelers": 2,
+    "totalPrice": 5270,
+    "status": "cancelled",
+    "bookingDate": "2026-04-27T23:38:25.354Z",
+    "createdAt": "2026-04-20T16:04:40.653Z"
+  },
+  {
+    "id": 116,
+    "userId": 19,
+    "tripId": 140,
+    "travelers": 5,
+    "totalPrice": 19625,
+    "status": "confirmed",
+    "bookingDate": "2025-11-24T09:08:00.617Z",
+    "createdAt": "2025-11-08T20:56:15.489Z"
+  },
+  {
+    "id": 117,
+    "userId": 91,
+    "tripId": 14,
+    "travelers": 3,
+    "totalPrice": 13611,
+    "status": "confirmed",
+    "bookingDate": "2025-05-10T09:35:48.344Z",
+    "createdAt": "2025-08-08T11:49:54.418Z"
+  },
+  {
+    "id": 118,
+    "userId": 27,
+    "tripId": 129,
+    "travelers": 2,
+    "totalPrice": 2120,
+    "status": "confirmed",
+    "bookingDate": "2026-03-08T03:18:00.041Z",
+    "createdAt": "2026-02-09T17:08:03.368Z"
+  },
+  {
+    "id": 119,
+    "userId": 4,
+    "tripId": 89,
+    "travelers": 2,
+    "totalPrice": 6476,
+    "status": "pending",
+    "bookingDate": "2025-06-13T15:16:02.536Z",
+    "createdAt": "2025-11-07T22:05:48.397Z"
+  },
+  {
+    "id": 120,
+    "userId": 58,
+    "tripId": 66,
+    "travelers": 5,
+    "totalPrice": 19320,
+    "status": "confirmed",
+    "bookingDate": "2025-12-13T16:54:45.433Z",
+    "createdAt": "2026-02-17T20:16:41.867Z"
+  },
+  {
+    "id": 121,
+    "userId": 58,
+    "tripId": 49,
+    "travelers": 2,
+    "totalPrice": 6610,
+    "status": "pending",
+    "bookingDate": "2025-07-04T10:25:38.053Z",
+    "createdAt": "2025-09-02T20:24:25.230Z"
+  },
+  {
+    "id": 122,
+    "userId": 92,
+    "tripId": 145,
+    "travelers": 5,
+    "totalPrice": 24865,
+    "status": "confirmed",
+    "bookingDate": "2025-11-23T01:54:13.399Z",
+    "createdAt": "2025-09-08T13:56:28.053Z"
+  },
+  {
+    "id": 123,
+    "userId": 89,
+    "tripId": 85,
+    "travelers": 2,
+    "totalPrice": 7208,
+    "status": "pending",
+    "bookingDate": "2025-12-10T20:21:13.937Z",
+    "createdAt": "2025-10-09T10:47:22.740Z"
+  },
+  {
+    "id": 124,
+    "userId": 85,
+    "tripId": 105,
+    "travelers": 3,
+    "totalPrice": 3675,
+    "status": "confirmed",
+    "bookingDate": "2025-08-10T01:55:23.501Z",
+    "createdAt": "2026-01-21T19:52:07.338Z"
+  },
+  {
+    "id": 125,
+    "userId": 30,
+    "tripId": 31,
+    "travelers": 4,
+    "totalPrice": 15232,
+    "status": "pending",
+    "bookingDate": "2026-04-22T02:27:15.819Z",
+    "createdAt": "2025-10-27T10:56:25.116Z"
+  },
+  {
+    "id": 126,
+    "userId": 63,
+    "tripId": 88,
+    "travelers": 3,
+    "totalPrice": 11805,
+    "status": "confirmed",
+    "bookingDate": "2026-02-06T16:07:01.771Z",
+    "createdAt": "2025-05-09T09:22:21.172Z"
+  },
+  {
+    "id": 127,
+    "userId": 98,
+    "tripId": 47,
+    "travelers": 3,
+    "totalPrice": 4242,
+    "status": "cancelled",
+    "bookingDate": "2025-09-21T14:51:02.960Z",
+    "createdAt": "2025-10-23T00:05:10.705Z"
+  },
+  {
+    "id": 128,
+    "userId": 67,
+    "tripId": 134,
+    "travelers": 2,
+    "totalPrice": 7264,
+    "status": "pending",
+    "bookingDate": "2026-04-26T16:31:56.131Z",
+    "createdAt": "2026-02-09T04:59:25.666Z"
+  },
+  {
+    "id": 129,
+    "userId": 84,
+    "tripId": 17,
+    "travelers": 2,
+    "totalPrice": 5028,
+    "status": "pending",
+    "bookingDate": "2026-04-28T09:32:53.643Z",
+    "createdAt": "2025-11-03T20:34:42.512Z"
+  },
+  {
+    "id": 130,
+    "userId": 19,
+    "tripId": 144,
+    "travelers": 3,
+    "totalPrice": 2244,
+    "status": "cancelled",
+    "bookingDate": "2025-07-10T21:27:51.671Z",
+    "createdAt": "2025-06-09T14:28:32.462Z"
+  },
+  {
+    "id": 131,
+    "userId": 78,
+    "tripId": 44,
+    "travelers": 5,
+    "totalPrice": 5130,
+    "status": "pending",
+    "bookingDate": "2026-01-19T11:27:23.279Z",
+    "createdAt": "2026-03-30T01:25:15.161Z"
+  },
+  {
+    "id": 132,
+    "userId": 11,
+    "tripId": 113,
+    "travelers": 2,
+    "totalPrice": 1982,
+    "status": "pending",
+    "bookingDate": "2025-10-12T21:17:33.853Z",
+    "createdAt": "2025-10-26T15:44:24.375Z"
+  },
+  {
+    "id": 133,
+    "userId": 12,
+    "tripId": 141,
+    "travelers": 2,
+    "totalPrice": 1794,
+    "status": "cancelled",
+    "bookingDate": "2026-03-26T13:50:15.791Z",
+    "createdAt": "2025-11-17T19:07:11.801Z"
+  },
+  {
+    "id": 134,
+    "userId": 90,
+    "tripId": 41,
+    "travelers": 5,
+    "totalPrice": 16330,
+    "status": "pending",
+    "bookingDate": "2025-05-10T02:05:40.236Z",
+    "createdAt": "2025-07-21T06:22:30.174Z"
+  },
+  {
+    "id": 135,
+    "userId": 39,
+    "tripId": 86,
+    "travelers": 1,
+    "totalPrice": 4017,
+    "status": "pending",
+    "bookingDate": "2025-11-02T16:29:24.608Z",
+    "createdAt": "2025-08-09T11:11:01.984Z"
+  },
+  {
+    "id": 136,
+    "userId": 10,
+    "tripId": 108,
+    "travelers": 2,
+    "totalPrice": 8686,
+    "status": "cancelled",
+    "bookingDate": "2025-10-19T18:28:17.940Z",
+    "createdAt": "2025-08-17T02:19:10.160Z"
+  },
+  {
+    "id": 137,
+    "userId": 91,
+    "tripId": 138,
+    "travelers": 1,
+    "totalPrice": 3923,
+    "status": "confirmed",
+    "bookingDate": "2026-04-15T22:13:15.600Z",
+    "createdAt": "2025-11-19T16:02:06.999Z"
+  },
+  {
+    "id": 138,
+    "userId": 25,
+    "tripId": 133,
+    "travelers": 1,
+    "totalPrice": 1620,
+    "status": "confirmed",
+    "bookingDate": "2025-12-08T08:50:07.930Z",
+    "createdAt": "2025-08-06T00:29:13.963Z"
+  },
+  {
+    "id": 139,
+    "userId": 85,
+    "tripId": 51,
+    "travelers": 3,
+    "totalPrice": 11934,
+    "status": "pending",
+    "bookingDate": "2026-01-04T21:39:45.554Z",
+    "createdAt": "2025-07-18T03:21:28.305Z"
+  },
+  {
+    "id": 140,
+    "userId": 47,
+    "tripId": 115,
+    "travelers": 3,
+    "totalPrice": 8259,
+    "status": "confirmed",
+    "bookingDate": "2025-08-27T05:38:25.044Z",
+    "createdAt": "2025-08-25T10:07:29.226Z"
+  },
+  {
+    "id": 141,
+    "userId": 6,
+    "tripId": 66,
+    "travelers": 2,
+    "totalPrice": 5974,
+    "status": "pending",
+    "bookingDate": "2026-01-05T01:29:44.701Z",
+    "createdAt": "2026-01-09T10:09:59.315Z"
+  },
+  {
+    "id": 142,
+    "userId": 25,
+    "tripId": 29,
+    "travelers": 3,
+    "totalPrice": 9126,
+    "status": "confirmed",
+    "bookingDate": "2026-01-31T05:52:50.887Z",
+    "createdAt": "2025-06-09T10:45:17.373Z"
+  },
+  {
+    "id": 143,
+    "userId": 48,
+    "tripId": 137,
+    "travelers": 4,
+    "totalPrice": 2548,
+    "status": "pending",
+    "bookingDate": "2025-12-13T08:30:59.937Z",
+    "createdAt": "2025-06-10T17:16:18.704Z"
+  },
+  {
+    "id": 144,
+    "userId": 81,
+    "tripId": 117,
+    "travelers": 5,
+    "totalPrice": 11795,
+    "status": "confirmed",
+    "bookingDate": "2025-08-21T19:49:04.619Z",
+    "createdAt": "2025-10-11T08:12:46.644Z"
+  },
+  {
+    "id": 145,
+    "userId": 47,
+    "tripId": 68,
+    "travelers": 1,
+    "totalPrice": 4479,
+    "status": "cancelled",
+    "bookingDate": "2025-06-18T20:25:07.220Z",
+    "createdAt": "2025-06-01T11:23:03.354Z"
+  },
+  {
+    "id": 146,
+    "userId": 9,
+    "tripId": 25,
+    "travelers": 4,
+    "totalPrice": 19716,
+    "status": "pending",
+    "bookingDate": "2025-09-25T04:23:46.137Z",
+    "createdAt": "2026-04-02T19:23:00.583Z"
+  },
+  {
+    "id": 147,
+    "userId": 50,
+    "tripId": 60,
+    "travelers": 2,
+    "totalPrice": 5660,
+    "status": "pending",
+    "bookingDate": "2026-03-31T15:34:50.012Z",
+    "createdAt": "2025-05-10T22:17:39.604Z"
+  },
+  {
+    "id": 148,
+    "userId": 30,
+    "tripId": 146,
+    "travelers": 3,
+    "totalPrice": 4227,
+    "status": "confirmed",
+    "bookingDate": "2026-02-16T22:22:06.900Z",
+    "createdAt": "2025-09-18T20:04:44.638Z"
+  },
+  {
+    "id": 149,
+    "userId": 35,
+    "tripId": 12,
+    "travelers": 1,
+    "totalPrice": 4169,
+    "status": "pending",
+    "bookingDate": "2025-05-04T02:23:17.772Z",
+    "createdAt": "2025-08-01T06:19:40.761Z"
+  },
+  {
+    "id": 150,
+    "userId": 45,
+    "tripId": 49,
+    "travelers": 3,
+    "totalPrice": 14610,
+    "status": "pending",
+    "bookingDate": "2025-07-20T13:09:01.352Z",
+    "createdAt": "2025-10-13T08:36:01.212Z"
+  },
+  {
+    "id": 151,
+    "userId": 41,
+    "tripId": 50,
+    "travelers": 5,
+    "totalPrice": 18060,
+    "status": "confirmed",
+    "bookingDate": "2025-06-04T08:29:56.691Z",
+    "createdAt": "2025-07-16T00:26:42.886Z"
+  },
+  {
+    "id": 152,
+    "userId": 80,
+    "tripId": 40,
+    "travelers": 3,
+    "totalPrice": 9477,
+    "status": "pending",
+    "bookingDate": "2026-02-12T13:02:37.366Z",
+    "createdAt": "2025-05-31T23:22:17.832Z"
+  },
+  {
+    "id": 153,
+    "userId": 59,
+    "tripId": 28,
+    "travelers": 1,
+    "totalPrice": 4546,
+    "status": "pending",
+    "bookingDate": "2026-03-31T23:45:54.399Z",
+    "createdAt": "2025-06-25T05:32:45.151Z"
+  },
+  {
+    "id": 154,
+    "userId": 31,
+    "tripId": 106,
+    "travelers": 2,
+    "totalPrice": 2108,
+    "status": "confirmed",
+    "bookingDate": "2025-08-02T13:40:30.604Z",
+    "createdAt": "2025-11-05T21:01:27.794Z"
+  },
+  {
+    "id": 155,
+    "userId": 56,
+    "tripId": 103,
+    "travelers": 4,
+    "totalPrice": 13956,
+    "status": "cancelled",
+    "bookingDate": "2025-12-05T10:41:31.996Z",
+    "createdAt": "2026-02-07T05:48:00.011Z"
+  },
+  {
+    "id": 156,
+    "userId": 48,
+    "tripId": 132,
+    "travelers": 5,
+    "totalPrice": 20315,
+    "status": "confirmed",
+    "bookingDate": "2025-09-01T18:08:45.111Z",
+    "createdAt": "2026-04-10T05:27:32.110Z"
+  },
+  {
+    "id": 157,
+    "userId": 30,
+    "tripId": 17,
+    "travelers": 1,
+    "totalPrice": 840,
+    "status": "confirmed",
+    "bookingDate": "2025-10-09T11:11:15.602Z",
+    "createdAt": "2026-02-10T05:06:35.553Z"
+  },
+  {
+    "id": 158,
+    "userId": 42,
+    "tripId": 98,
+    "travelers": 5,
+    "totalPrice": 22260,
+    "status": "pending",
+    "bookingDate": "2025-08-25T03:42:54.034Z",
+    "createdAt": "2025-12-17T13:02:07.213Z"
+  },
+  {
+    "id": 159,
+    "userId": 70,
+    "tripId": 138,
+    "travelers": 2,
+    "totalPrice": 1820,
+    "status": "cancelled",
+    "bookingDate": "2025-07-17T04:00:21.522Z",
+    "createdAt": "2025-10-10T08:25:25.553Z"
+  },
+  {
+    "id": 160,
+    "userId": 100,
+    "tripId": 124,
+    "travelers": 4,
+    "totalPrice": 11048,
+    "status": "pending",
+    "bookingDate": "2026-02-21T02:43:47.171Z",
+    "createdAt": "2025-12-17T17:32:43.135Z"
+  },
+  {
+    "id": 161,
+    "userId": 100,
+    "tripId": 112,
+    "travelers": 4,
+    "totalPrice": 5108,
+    "status": "confirmed",
+    "bookingDate": "2025-11-28T09:41:05.609Z",
+    "createdAt": "2025-12-17T05:35:27.854Z"
+  },
+  {
+    "id": 162,
+    "userId": 57,
+    "tripId": 55,
+    "travelers": 4,
+    "totalPrice": 10916,
+    "status": "pending",
+    "bookingDate": "2025-05-23T16:10:09.494Z",
+    "createdAt": "2025-06-19T19:53:00.334Z"
+  },
+  {
+    "id": 163,
+    "userId": 4,
+    "tripId": 78,
+    "travelers": 2,
+    "totalPrice": 2702,
+    "status": "confirmed",
+    "bookingDate": "2025-05-08T15:27:41.115Z",
+    "createdAt": "2026-04-09T04:26:58.815Z"
+  },
+  {
+    "id": 164,
+    "userId": 34,
+    "tripId": 12,
+    "travelers": 2,
+    "totalPrice": 8316,
+    "status": "pending",
+    "bookingDate": "2026-01-23T23:43:16.924Z",
+    "createdAt": "2025-09-21T18:56:27.105Z"
+  },
+  {
+    "id": 165,
+    "userId": 83,
+    "tripId": 58,
+    "travelers": 1,
+    "totalPrice": 4701,
+    "status": "confirmed",
+    "bookingDate": "2025-12-10T22:27:33.102Z",
+    "createdAt": "2025-11-29T02:29:46.257Z"
+  },
+  {
+    "id": 166,
+    "userId": 73,
+    "tripId": 61,
+    "travelers": 5,
+    "totalPrice": 3130,
+    "status": "pending",
+    "bookingDate": "2026-03-01T08:39:00.161Z",
+    "createdAt": "2025-08-06T21:49:34.539Z"
+  },
+  {
+    "id": 167,
+    "userId": 82,
+    "tripId": 129,
+    "travelers": 3,
+    "totalPrice": 2463,
+    "status": "cancelled",
+    "bookingDate": "2025-05-03T16:28:29.037Z",
+    "createdAt": "2025-09-06T01:56:31.040Z"
+  },
+  {
+    "id": 168,
+    "userId": 94,
+    "tripId": 116,
+    "travelers": 4,
+    "totalPrice": 9968,
+    "status": "confirmed",
+    "bookingDate": "2026-03-08T13:52:47.424Z",
+    "createdAt": "2025-06-02T20:12:32.196Z"
+  },
+  {
+    "id": 169,
+    "userId": 95,
+    "tripId": 14,
+    "travelers": 3,
+    "totalPrice": 6957,
+    "status": "cancelled",
+    "bookingDate": "2025-11-09T11:07:12.759Z",
+    "createdAt": "2026-02-11T15:12:22.921Z"
+  },
+  {
+    "id": 170,
+    "userId": 15,
+    "tripId": 54,
+    "travelers": 5,
+    "totalPrice": 11935,
+    "status": "pending",
+    "bookingDate": "2026-02-03T06:16:42.357Z",
+    "createdAt": "2026-04-25T08:07:47.002Z"
+  },
+  {
+    "id": 171,
+    "userId": 67,
+    "tripId": 130,
+    "travelers": 3,
+    "totalPrice": 14244,
+    "status": "pending",
+    "bookingDate": "2025-11-06T14:06:19.255Z",
+    "createdAt": "2026-04-25T19:04:59.876Z"
+  },
+  {
+    "id": 172,
+    "userId": 3,
+    "tripId": 72,
+    "travelers": 2,
+    "totalPrice": 7670,
+    "status": "pending",
+    "bookingDate": "2025-09-01T23:09:29.459Z",
+    "createdAt": "2025-10-02T01:20:29.723Z"
+  },
+  {
+    "id": 173,
+    "userId": 17,
+    "tripId": 140,
+    "travelers": 2,
+    "totalPrice": 2822,
+    "status": "pending",
+    "bookingDate": "2025-11-12T04:54:54.427Z",
+    "createdAt": "2025-06-02T15:08:34.697Z"
+  },
+  {
+    "id": 174,
+    "userId": 4,
+    "tripId": 139,
+    "travelers": 1,
+    "totalPrice": 4509,
+    "status": "confirmed",
+    "bookingDate": "2026-02-14T16:12:36.537Z",
+    "createdAt": "2025-09-25T09:59:54.971Z"
+  },
+  {
+    "id": 175,
+    "userId": 24,
+    "tripId": 107,
+    "travelers": 5,
+    "totalPrice": 6295,
+    "status": "pending",
+    "bookingDate": "2025-08-09T23:21:38.791Z",
+    "createdAt": "2026-04-26T09:11:09.538Z"
+  },
+  {
+    "id": 176,
+    "userId": 64,
+    "tripId": 92,
+    "travelers": 5,
+    "totalPrice": 6810,
+    "status": "cancelled",
+    "bookingDate": "2025-05-11T00:50:58.480Z",
+    "createdAt": "2026-04-20T02:01:07.322Z"
+  },
+  {
+    "id": 177,
+    "userId": 27,
+    "tripId": 48,
+    "travelers": 3,
+    "totalPrice": 8034,
+    "status": "confirmed",
+    "bookingDate": "2025-12-07T12:31:49.536Z",
+    "createdAt": "2025-05-24T21:46:16.810Z"
+  },
+  {
+    "id": 178,
+    "userId": 20,
+    "tripId": 68,
+    "travelers": 4,
+    "totalPrice": 5676,
+    "status": "pending",
+    "bookingDate": "2026-04-27T21:29:26.929Z",
+    "createdAt": "2025-06-13T20:53:00.944Z"
+  },
+  {
+    "id": 179,
+    "userId": 59,
+    "tripId": 38,
+    "travelers": 4,
+    "totalPrice": 16444,
+    "status": "cancelled",
+    "bookingDate": "2025-10-21T13:02:26.035Z",
+    "createdAt": "2026-04-16T12:32:02.514Z"
+  },
+  {
+    "id": 180,
+    "userId": 63,
+    "tripId": 76,
+    "travelers": 5,
+    "totalPrice": 23460,
+    "status": "pending",
+    "bookingDate": "2025-09-14T07:22:23.205Z",
+    "createdAt": "2025-06-30T04:05:32.823Z"
+  },
+  {
+    "id": 181,
+    "userId": 76,
+    "tripId": 68,
+    "travelers": 2,
+    "totalPrice": 6034,
+    "status": "pending",
+    "bookingDate": "2025-10-29T12:30:40.227Z",
+    "createdAt": "2026-02-18T14:13:04.587Z"
+  },
+  {
+    "id": 182,
+    "userId": 66,
+    "tripId": 126,
+    "travelers": 1,
+    "totalPrice": 4027,
+    "status": "pending",
+    "bookingDate": "2026-04-15T23:08:55.819Z",
+    "createdAt": "2025-09-19T16:43:47.534Z"
+  },
+  {
+    "id": 183,
+    "userId": 17,
+    "tripId": 144,
+    "travelers": 3,
+    "totalPrice": 8358,
+    "status": "cancelled",
+    "bookingDate": "2025-09-19T21:47:02.535Z",
+    "createdAt": "2025-07-24T18:19:13.062Z"
+  },
+  {
+    "id": 184,
+    "userId": 17,
+    "tripId": 94,
+    "travelers": 1,
+    "totalPrice": 1243,
+    "status": "confirmed",
+    "bookingDate": "2025-05-27T22:13:02.486Z",
+    "createdAt": "2026-03-11T14:10:45.147Z"
+  },
+  {
+    "id": 185,
+    "userId": 55,
+    "tripId": 148,
+    "travelers": 1,
+    "totalPrice": 1828,
+    "status": "cancelled",
+    "bookingDate": "2026-02-18T09:01:42.682Z",
+    "createdAt": "2025-07-28T00:42:19.010Z"
+  },
+  {
+    "id": 186,
+    "userId": 56,
+    "tripId": 150,
+    "travelers": 4,
+    "totalPrice": 8692,
+    "status": "confirmed",
+    "bookingDate": "2025-08-11T11:11:54.008Z",
+    "createdAt": "2026-01-28T03:59:11.918Z"
+  },
+  {
+    "id": 187,
+    "userId": 60,
+    "tripId": 8,
+    "travelers": 5,
+    "totalPrice": 14770,
+    "status": "confirmed",
+    "bookingDate": "2025-10-25T22:14:10.565Z",
+    "createdAt": "2025-08-17T22:21:05.905Z"
+  },
+  {
+    "id": 188,
+    "userId": 15,
+    "tripId": 50,
+    "travelers": 1,
+    "totalPrice": 3584,
+    "status": "cancelled",
+    "bookingDate": "2026-01-05T17:04:34.021Z",
+    "createdAt": "2025-12-04T22:42:43.015Z"
+  },
+  {
+    "id": 189,
+    "userId": 48,
+    "tripId": 66,
+    "travelers": 4,
+    "totalPrice": 12260,
+    "status": "pending",
+    "bookingDate": "2025-08-29T00:51:28.547Z",
+    "createdAt": "2025-08-07T01:06:51.229Z"
+  },
+  {
+    "id": 190,
+    "userId": 76,
+    "tripId": 111,
+    "travelers": 4,
+    "totalPrice": 4536,
+    "status": "cancelled",
+    "bookingDate": "2025-12-11T09:05:15.595Z",
+    "createdAt": "2025-07-27T07:01:19.627Z"
+  },
+  {
+    "id": 191,
+    "userId": 74,
+    "tripId": 17,
+    "travelers": 4,
+    "totalPrice": 15944,
+    "status": "cancelled",
+    "bookingDate": "2026-04-08T07:39:04.749Z",
+    "createdAt": "2025-08-04T23:45:38.618Z"
+  },
+  {
+    "id": 192,
+    "userId": 59,
+    "tripId": 1,
+    "travelers": 1,
+    "totalPrice": 4863,
+    "status": "pending",
+    "bookingDate": "2025-05-04T22:30:19.800Z",
+    "createdAt": "2025-12-16T06:35:25.456Z"
+  },
+  {
+    "id": 193,
+    "userId": 82,
+    "tripId": 39,
+    "travelers": 5,
+    "totalPrice": 11300,
+    "status": "pending",
+    "bookingDate": "2025-09-25T17:39:40.894Z",
+    "createdAt": "2026-03-14T14:44:39.876Z"
+  },
+  {
+    "id": 194,
+    "userId": 59,
+    "tripId": 42,
+    "travelers": 1,
+    "totalPrice": 4729,
+    "status": "pending",
+    "bookingDate": "2025-12-05T09:35:54.476Z",
+    "createdAt": "2026-03-22T01:00:17.331Z"
+  },
+  {
+    "id": 195,
+    "userId": 75,
+    "tripId": 5,
+    "travelers": 5,
+    "totalPrice": 23840,
+    "status": "pending",
+    "bookingDate": "2026-03-16T03:49:45.717Z",
+    "createdAt": "2026-04-02T01:33:03.772Z"
+  },
+  {
+    "id": 196,
+    "userId": 81,
+    "tripId": 124,
+    "travelers": 5,
+    "totalPrice": 5265,
+    "status": "cancelled",
+    "bookingDate": "2026-03-06T11:13:25.035Z",
+    "createdAt": "2026-03-21T01:09:18.030Z"
+  },
+  {
+    "id": 197,
+    "userId": 83,
+    "tripId": 23,
+    "travelers": 5,
+    "totalPrice": 4345,
+    "status": "confirmed",
+    "bookingDate": "2025-08-19T17:11:23.699Z",
+    "createdAt": "2025-06-01T02:49:40.862Z"
+  },
+  {
+    "id": 198,
+    "userId": 94,
+    "tripId": 144,
+    "travelers": 2,
+    "totalPrice": 8264,
+    "status": "cancelled",
+    "bookingDate": "2025-10-07T07:17:51.738Z",
+    "createdAt": "2025-10-31T11:43:25.943Z"
+  },
+  {
+    "id": 199,
+    "userId": 12,
+    "tripId": 76,
+    "travelers": 4,
+    "totalPrice": 6212,
+    "status": "pending",
+    "bookingDate": "2026-03-17T23:41:30.540Z",
+    "createdAt": "2025-08-08T04:33:30.345Z"
+  },
+  {
+    "id": 200,
+    "userId": 29,
+    "tripId": 43,
+    "travelers": 4,
+    "totalPrice": 17712,
+    "status": "pending",
+    "bookingDate": "2025-09-23T02:04:07.845Z",
+    "createdAt": "2025-10-17T14:04:54.073Z"
+  }
+]

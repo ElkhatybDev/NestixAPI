@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "New Shelia",
+    "country": "American Samoa",
+    "description": "Vehemens amissio currus.",
+    "image": "https://picsum.photos/seed/4flK1uTeSC/751/788?blur=5",
+    "rating": 4.141236197587224,
+    "createdAt": "2025-09-20T11:37:59.748Z"
+  },
+  {
+    "id": 2,
+    "name": "West Albert",
+    "country": "Honduras",
+    "description": "Combibo tendo minima aurum atrocitas carbo.",
+    "image": "https://picsum.photos/seed/pDokBxy5/1194/2371?blur=7",
+    "rating": 3.308152275400194,
+    "createdAt": "2026-02-14T14:56:25.300Z"
+  },
+  {
+    "id": 3,
+    "name": "Port Emorytown",
+    "country": "Norfolk Island",
+    "description": "Trado concido damno.",
+    "image": "https://picsum.photos/seed/Nm71sg/29/761?blur=5",
+    "rating": 3.0659563246525474,
+    "createdAt": "2025-05-21T22:42:14.059Z"
+  },
+  {
+    "id": 4,
+    "name": "East Dixiefort",
+    "country": "Thailand",
+    "description": "Astrum terror caterva comburo.",
+    "image": "https://picsum.photos/seed/rqyGI/2021/1954",
+    "rating": 4.872481460406911,
+    "createdAt": "2025-09-25T23:06:47.787Z"
+  },
+  {
+    "id": 5,
+    "name": "Pfefferside",
+    "country": "Iraq",
+    "description": "Ipsum umbra cultellus claro unus neque bardus eaque defungo.",
+    "image": "https://picsum.photos/seed/9w2pFzva/2397/3381?grayscale&blur=2",
+    "rating": 4.931175968357623,
+    "createdAt": "2025-08-10T03:11:33.227Z"
+  },
+  {
+    "id": 6,
+    "name": "Tonawanda",
+    "country": "Mongolia",
+    "description": "Contabesco velit considero.",
+    "image": "https://picsum.photos/seed/4p1Hrq/1306/3298?blur=8",
+    "rating": 3.369021897967479,
+    "createdAt": "2025-05-04T07:19:05.632Z"
+  },
+  {
+    "id": 7,
+    "name": "Weissnattown",
+    "country": "Heard Island and McDonald Islands",
+    "description": "Denuncio magni angustus quo cohibeo.",
+    "image": "https://picsum.photos/seed/IvFig6P9ru/2985/2685?grayscale&blur=6",
+    "rating": 3.459481770544019,
+    "createdAt": "2025-07-05T22:28:03.072Z"
+  },
+  {
+    "id": 8,
+    "name": "Lake Israel",
+    "country": "Benin",
+    "description": "Carmen via vulgaris atrocitas.",
+    "image": "https://picsum.photos/seed/Ynm85aUgZJ/3263/2875?grayscale&blur=7",
+    "rating": 4.695269256661781,
+    "createdAt": "2026-01-05T10:00:43.142Z"
+  },
+  {
+    "id": 9,
+    "name": "Rosecester",
+    "country": "Lebanon",
+    "description": "Admitto vallum coadunatio utor curis cras.",
+    "image": "https://picsum.photos/seed/hVxnMMm/1461/1860",
+    "rating": 3.313308440020011,
+    "createdAt": "2026-04-29T06:15:12.526Z"
+  },
+  {
+    "id": 10,
+    "name": "Imaboro",
+    "country": "Iceland",
+    "description": "Quae autus viduo decerno cubitum curso conqueror spargo.",
+    "image": "https://picsum.photos/seed/uLPqoeQR5/1582/122",
+    "rating": 4.6756647025017894,
+    "createdAt": "2025-07-11T01:06:22.825Z"
+  },
+  {
+    "id": 11,
+    "name": "Rogahnborough",
+    "country": "Heard Island and McDonald Islands",
+    "description": "Consectetur antea artificiose dolore cado socius arcus atrox.",
+    "image": "https://picsum.photos/seed/kkKD4t3e/42/585?blur=4",
+    "rating": 4.093981330669417,
+    "createdAt": "2025-12-13T23:51:22.890Z"
+  },
+  {
+    "id": 12,
+    "name": "North Velmaboro",
+    "country": "Turkey",
+    "description": "Corrumpo eius peior cicuta cubitum stultus capto vigilo.",
+    "image": "https://picsum.photos/seed/ZJkLilSn/3342/3556?blur=3",
+    "rating": 4.902589749989831,
+    "createdAt": "2025-07-24T16:20:08.516Z"
+  },
+  {
+    "id": 13,
+    "name": "Dinashire",
+    "country": "Cameroon",
+    "description": "Sublime vinco amet beatae tenetur alveus acerbitas.",
+    "image": "https://picsum.photos/seed/xksYWIjt/1454/888?blur=3",
+    "rating": 3.4320775783511674,
+    "createdAt": "2025-12-14T05:29:17.177Z"
+  },
+  {
+    "id": 14,
+    "name": "Landenburgh",
+    "country": "Slovakia",
+    "description": "Aperio maxime assentator degero abundans thalassinus corpus tibi subnecto.",
+    "image": "https://picsum.photos/seed/VjT9KGM/3783/3718?grayscale&blur=7",
+    "rating": 4.79068796288875,
+    "createdAt": "2025-07-20T12:57:51.369Z"
+  },
+  {
+    "id": 15,
+    "name": "West Valley City",
+    "country": "Wallis and Futuna",
+    "description": "Candidus astrum assumenda minus optio voluptatibus.",
+    "image": "https://picsum.photos/seed/DsbEB/2111/3864?grayscale&blur=8",
+    "rating": 4.795712282842199,
+    "createdAt": "2026-01-15T05:06:48.030Z"
+  },
+  {
+    "id": 16,
+    "name": "Fort Josianne",
+    "country": "Paraguay",
+    "description": "Curiositas tandem temperantia amplitudo creo quos sortitus.",
+    "image": "https://picsum.photos/seed/1XTENDB/2924/2213?grayscale&blur=9",
+    "rating": 3.3142926272299893,
+    "createdAt": "2025-10-30T03:43:42.150Z"
+  },
+  {
+    "id": 17,
+    "name": "Beahanburgh",
+    "country": "Djibouti",
+    "description": "Vulgaris arma laboriosam infit comedo.",
+    "image": "https://picsum.photos/seed/Og7TW/3485/1539?blur=9",
+    "rating": 4.361507982317135,
+    "createdAt": "2025-05-20T15:08:35.484Z"
+  },
+  {
+    "id": 18,
+    "name": "Jazmynefield",
+    "country": "Åland Islands",
+    "description": "Viduo deserunt subito.",
+    "image": "https://picsum.photos/seed/y5EeVIbct/650/3674?blur=10",
+    "rating": 4.766010013741036,
+    "createdAt": "2025-12-22T16:14:52.457Z"
+  },
+  {
+    "id": 19,
+    "name": "Kelvinstad",
+    "country": "Equatorial Guinea",
+    "description": "Eius spoliatio ultra acidus ea ullus tamdiu.",
+    "image": "https://picsum.photos/seed/4TM4iY/3244/2325?blur=5",
+    "rating": 3.1041788724472807,
+    "createdAt": "2026-02-15T23:42:56.094Z"
+  },
+  {
+    "id": 20,
+    "name": "Carmelohaven",
+    "country": "Chad",
+    "description": "Vehemens sollicito subiungo.",
+    "image": "https://picsum.photos/seed/U36YN/2936/3324?blur=9",
+    "rating": 4.93848486254022,
+    "createdAt": "2025-06-04T14:53:55.455Z"
+  },
+  {
+    "id": 21,
+    "name": "North Miriam",
+    "country": "Colombia",
+    "description": "Abeo subito pecco brevis.",
+    "image": "https://picsum.photos/seed/gAotyEb/3976/2103?blur=9",
+    "rating": 4.843548843265714,
+    "createdAt": "2026-03-06T21:15:25.689Z"
+  },
+  {
+    "id": 22,
+    "name": "Port Rudolph",
+    "country": "Tokelau",
+    "description": "Defero occaecati asperiores surgo cetera.",
+    "image": "https://picsum.photos/seed/r2EhjPhN/75/3731?grayscale&blur=4",
+    "rating": 3.359657639278055,
+    "createdAt": "2025-12-07T09:21:59.439Z"
+  },
+  {
+    "id": 23,
+    "name": "Downers Grove",
+    "country": "Morocco",
+    "description": "Solitudo consectetur curso.",
+    "image": "https://picsum.photos/seed/kizqkkLx/3874/492?grayscale&blur=1",
+    "rating": 4.054944535923348,
+    "createdAt": "2026-01-11T10:09:41.841Z"
+  },
+  {
+    "id": 24,
+    "name": "West Elvira",
+    "country": "South Africa",
+    "description": "Ab delectus adopto ipsam conturbo vomer sit ante studio.",
+    "image": "https://picsum.photos/seed/REsu6/2344/443?grayscale&blur=3",
+    "rating": 4.16441910098152,
+    "createdAt": "2025-05-17T14:00:06.007Z"
+  },
+  {
+    "id": 25,
+    "name": "Greenholttown",
+    "country": "Somalia",
+    "description": "Conventus vulgaris solutio valde tantum vilis vitiosus articulus.",
+    "image": "https://picsum.photos/seed/PirRzNml/3558/3410?blur=9",
+    "rating": 3.4516339059606373,
+    "createdAt": "2025-08-10T05:40:10.153Z"
+  },
+  {
+    "id": 26,
+    "name": "Perris",
+    "country": "Togo",
+    "description": "Calco dens aurum cupiditate pectus ascisco.",
+    "image": "https://picsum.photos/seed/jNoXZj/3552/1883?grayscale&blur=1",
+    "rating": 3.165389562750128,
+    "createdAt": "2026-03-28T22:41:56.156Z"
+  },
+  {
+    "id": 27,
+    "name": "Orlandofort",
+    "country": "Panama",
+    "description": "Eum conor bellum cotidie corporis impedit iusto.",
+    "image": "https://picsum.photos/seed/AC04sZ1m4y/1073/334?blur=5",
+    "rating": 4.29651839876616,
+    "createdAt": "2025-08-16T14:37:47.269Z"
+  },
+  {
+    "id": 28,
+    "name": "Ulicesfurt",
+    "country": "Mauritania",
+    "description": "Arguo comminor voluptatem vinculum aureus.",
+    "image": "https://picsum.photos/seed/1nf2xfxP/3691/3917?grayscale&blur=9",
+    "rating": 4.9546046232398595,
+    "createdAt": "2025-09-05T00:13:27.632Z"
+  },
+  {
+    "id": 29,
+    "name": "Port Nickolas",
+    "country": "Qatar",
+    "description": "Creber adimpleo infit avaritia vis eius angulus pecco cernuus adfero.",
+    "image": "https://picsum.photos/seed/KWFhKt7vaR/1053/1824?grayscale&blur=10",
+    "rating": 3.427562110738392,
+    "createdAt": "2026-02-25T22:44:04.865Z"
+  },
+  {
+    "id": 30,
+    "name": "South Josue",
+    "country": "Angola",
+    "description": "Vacuus cibus contra aequus adsum conculco confugo claustrum spoliatio.",
+    "image": "https://picsum.photos/seed/0LQjRXB/2443/2614?blur=3",
+    "rating": 3.005594580306367,
+    "createdAt": "2026-02-23T17:45:42.300Z"
+  }
+]
