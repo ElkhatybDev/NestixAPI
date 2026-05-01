@@ -2,7 +2,10 @@ const users = require("../data/users.json");
 const paginate = require("../utils/paginate");
 //import relation
 const posts = require("../data/posts.json");
-
+const bookings = require("../data/bookings.json");
+const trips = require("../data/trips.json");
+const reviews = require("../data/reviews.json");
+const experiences = require("../data/experiences.json");
 
 
 //
@@ -143,8 +146,103 @@ const getUserPosts = (req, res) => {
     });
 };
 
+
+const getUserBookings = (req, res) => {
+  const userId = parseInt(req.params.id);
+
+  const user = users.find(user => user.id === userId);
+
+  if (!user) {
+    return res.status(404).json({
+      message: "User not found"
+    });
+  }
+
+  const userBookings = bookings.filter(booking => booking.userId === userId);
+
+  const data = userBookings.map(booking => {
+    const trip = trips.find(trip => trip.id === booking.tripId);
+
+    return {
+      ...booking,
+      trip: trip
+        ? {
+            title: trip.title,
+            price: trip.price,
+            duration: trip.duration
+          }
+        : null
+    };
+  });
+
+  res.status(200).json({
+    message: "User bookings fetched successfully",
+    total: data.length,
+    data
+  });
+};
+
+const getUserReviews = (req, res) => {
+  const userId = parseInt(req.params.id);
+
+  const user = users.find(user => user.id === userId);
+
+  if (!user) {
+    return res.status(404).json({
+      message: "User not found"
+    });
+  }
+
+  const userReviews = reviews.filter(review => review.userId === userId);
+
+  const data = userReviews.map(review => {
+    const trip = trips.find(trip => trip.id === review.tripId);
+
+    return {
+      ...review,
+      trip: trip
+        ? {
+            title: trip.title,
+            price: trip.price
+          }
+        : null
+    };
+  });
+
+  res.status(200).json({
+    message: "User reviews fetched successfully",
+    total: data.length,
+    data
+  });
+};
+
+const getUserExperiences = (req, res) => {
+  const userId = parseInt(req.params.id);
+
+  const user = users.find(u => u.id === userId);
+
+  if (!user) {
+    return res.status(404).json({
+      message: "User not found"
+    });
+  }
+
+  const userExperiences = experiences.filter(e => e.userId === userId);
+
+  res.status(200).json({
+    message: "User experiences fetched successfully",
+    total: userExperiences.length,
+    data: userExperiences
+  });
+};
+
+
+
+
 module.exports = {
     getAllUsers,getUserById,
     addUser,updateUser,
     deleteUser,getUserPosts,
+    getUserBookings,getUserReviews,
+    getUserExperiences
 };
