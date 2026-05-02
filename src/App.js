@@ -10,6 +10,8 @@ const tripsRoutes = require("./routes/trips.routes");
 const bookingsRoutes = require("./routes/bookings.routes");
 const reviewsRoutes = require("./routes/reviews.routes");
 const experiencesRoutes = require("./routes/experiences.routes");
+//Auth
+const authRoutes = require("./routes/auth.routes");
 
 //9adina app 
 const app = express();
@@ -33,6 +35,8 @@ app.use("/trips", tripsRoutes);
 app.use("/bookings", bookingsRoutes);
 app.use("/reviews", reviewsRoutes);
 app.use("/experiences", experiencesRoutes);
+//Auth
+app.use("/auth", authRoutes);
 
 
 
