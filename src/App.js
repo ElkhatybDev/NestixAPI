@@ -12,6 +12,8 @@ const reviewsRoutes = require("./routes/reviews.routes");
 const experiencesRoutes = require("./routes/experiences.routes");
 //Auth
 const authRoutes = require("./routes/auth.routes");
+//g-image
+const imageRoutes = require("./routes/image.routes");
 
 //9adina app 
 const app = express();
@@ -37,6 +39,8 @@ app.use("/reviews", reviewsRoutes);
 app.use("/experiences", experiencesRoutes);
 //Auth
 app.use("/auth", authRoutes);
+//g-image
+app.use("/image", imageRoutes);
 
 
 
